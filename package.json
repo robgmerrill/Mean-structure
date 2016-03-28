@@ -1,0 +1,23 @@
+{
+  "name": "mean_structure",
+  "version": "1.0.0",
+  "description": "Developing a Mean Structure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robgmerrill/Mean-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robgmerrill/Mean-structure/issues"
+  },
+  "homepage": "https://github.com/robgmerrill/Mean-structure#readme", 
+  "dependencies": {
+    "express" : "~4.8.8"
+  }
+}
