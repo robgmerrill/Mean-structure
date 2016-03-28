@@ -17,5 +17,7 @@
     "url": "https://github.com/robgmerrill/Mean-structure/issues"
   },
   "homepage": "https://github.com/robgmerrill/Mean-structure#readme", 
- 
+  "dependencies": {
+    "express" : "~4.8.8"
+  }
 }
